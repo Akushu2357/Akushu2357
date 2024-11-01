@@ -12,7 +12,4 @@ I am a third-year Computer Engineering student at King Mongkut's University of T
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akushu2357&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akushu2357&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
